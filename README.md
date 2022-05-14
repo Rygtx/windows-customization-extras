@@ -1,2 +1,2 @@
 # windows-customization-extras
-Extra skins and Wallpapers for Windows Customization.  Including Stardock Curtains, PotPlayer, foobar2000, and more.
+Extra skins and Wallpapers for Windows Customization.  Including [Stardock Curtains](https://github.com/niivu/windows-customization-extras/tree/main/Stardock%20Curtains), [PotPlayer](https://github.com/niivu/windows-customization-extras/tree/main/PotPlayer), [foobar2000](https://github.com/niivu/windows-customization-extras/tree/main/foobar2000), [Wallpapers](https://github.com/niivu/windows-customization-extras/tree/main/Wallpapers) and more.
