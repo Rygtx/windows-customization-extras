@@ -6,10 +6,8 @@ For Windows 10 users you can use [Inkscape](https://inkscape.org/) (free) to con
 
 for example...
 
-NORMAL - 
-
-HOVER - 
-
-PRESSED - 
+NORMAL
+HOVER
+PRESSED
 
 ![Windows 11 orb](https://user-images.githubusercontent.com/32079142/168418856-732c100f-86ee-4599-8cc5-945834529e0e.png)
